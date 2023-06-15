@@ -1,2 +1,2 @@
-# testrepo
+# testrepository
 Just testing github
